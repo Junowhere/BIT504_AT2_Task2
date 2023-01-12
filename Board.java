@@ -36,7 +36,7 @@ public class Board {
 		      } 
 		    }
 		  }
-		return true; //If there are no empty cells, it's a draw, the game is over	
+		return true; //If there are no empty cells, it's a draw, the game is over and can be restarted	
 	}
 	
 	/** Return true if the current player "thePlayer" has won after making their move  */
